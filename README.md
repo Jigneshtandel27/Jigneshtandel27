@@ -1,9 +1,9 @@
 <div align="center">
   <h2>Hi there, I'm <a href="https://github.com/Jigneshtandel27">Jignesh Tandel</a>! 👋</h2>
   
-  <a href="https://git.io/typing-svg">
+ <!-- <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2088FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;I+build+Ecommerce+Websites;I+love+Next.js+and+Node.js" alt="Typing SVG" />
-  </a>
+  </a> -->
 </div>
 
 <br/>
