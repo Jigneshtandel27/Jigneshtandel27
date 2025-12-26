@@ -39,10 +39,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jigneshtandel27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jigneshtandel27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+  <img src="https://metrics.lecoq.io/Jigneshtandel27?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&languages.limit=8&config.timezone=Asia%2FCalcutta" alt="Metrics" />
 </div>
-
 <br/>
 
 <div align="center">
