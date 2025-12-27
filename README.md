@@ -36,13 +36,13 @@
 
 <br/>
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
-<!--<div align="center">
+<div align="center">
   <img src="https://metrics.lecoq.io/Jigneshtandel27?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&languages.limit=8&config.timezone=Asia%2FCalcutta" alt="Metrics" />
-</div>-->
+</div>
 <br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jigneshtandel27&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</div>-->
